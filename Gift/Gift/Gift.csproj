@@ -41,6 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractComponent.cs" />
+    <Compile Include="Candy.cs" />
+    <Compile Include="Cookie.cs" />
+    <Compile Include="Fruit.cs" />
+    <Compile Include="Gift.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
